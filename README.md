@@ -16,3 +16,9 @@ The Vrinda store wants to create annual sales report for 2026.So that, the owner
 - Highest selling category?
 ## Dashboard link
 - <a href="https://github.com/Prajakta19-A/Data_Analysis_Dashboard/blob/main/Vrinda_sales_report_dashboard_screenshort.png"> View Dashboard</a>
+## Process
+- Cleaned and prepared raw sales data by removing duplictes,handling missing values,and standardizing formats in Excel.
+- Performed data analysis using Pivot Tables to identify monthly sales trends,top stats,sales channels,and customer demographics.
+- Created calculated fields such as month and age group for deeper insights
+- Build an interactive Excel dashboard with charts,KPIs,and slicers for dynamic reporting.
+- The analysis helpes highlight key sales patterns and top-performing channels for business decision-making.
