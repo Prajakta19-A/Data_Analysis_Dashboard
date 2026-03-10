@@ -15,4 +15,4 @@ The Vrinda store wants to create annual sales report for 2026.So that, the owner
 - Which channel is contributing to maximum sales?
 - Highest selling category?
 ## Dashboard link
-- <a href="
+- <a href="https://github.com/Prajakta19-A/Data_Analysis_Dashboard/blob/main/Vrinda_sales_report_dashboard_screenshort.png"> View Dashboard</a>
