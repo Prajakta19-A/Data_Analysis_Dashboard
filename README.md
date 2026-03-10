@@ -14,3 +14,5 @@ The Vrinda store wants to create annual sales report for 2026.So that, the owner
 - Relation between age and gender based on number of orders
 - Which channel is contributing to maximum sales?
 - Highest selling category?
+## Dashboard link
+- <a href="
