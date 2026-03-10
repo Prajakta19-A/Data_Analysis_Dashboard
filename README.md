@@ -22,7 +22,6 @@ The Vrinda store wants to create annual sales report for 2026.So that, the owner
 - Created calculated fields such as month and age group for deeper insights
 - Build an interactive Excel dashboard with charts,KPIs,and slicers for dynamic reporting.
 - The analysis helpes highlight key sales patterns and top-performing channels for business decision-making.
-
 ## Dashboard Image
 - <img width="1290" height="539" alt="Vrinda_sales_report_dashboard_screenshort" src="https://github.com/user-attachments/assets/1d40c6f2-41aa-4264-ae1d-258e3703eed8" />
 
@@ -31,6 +30,6 @@ The Vrinda store wants to create annual sales report for 2026.So that, the owner
 - Maharashtra,Karnataka and Utterpradesh are top 3 states(~35%).
 - Adult Age group (30-49)years is max contributing(~50%).
 - Amezon,Myntra and flipkart are max contributing(~ 80%).
-- 
+
 ## Conclusion
 - Target women customers of age group(30-49)years living in Maharashtra,Karnataka, and UtterPradesh by showing ads/offers/coupons available on Amazon,Myntra and Flipkart.
